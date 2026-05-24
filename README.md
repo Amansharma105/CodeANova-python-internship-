@@ -28,4 +28,5 @@ This project was developed during my Python Internship assignment to practice co
 
 ## Author
 Aman Sharma
-Thank you for visiting ky repository 
+
+Thank you for visiting my repository 
